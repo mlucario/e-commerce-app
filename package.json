@@ -1,0 +1,29 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.0",
+    "lodash": "^4.17.15",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlucario/e-commerce-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlucario/e-commerce-app/issues"
+  },
+  "homepage": "https://github.com/mlucario/e-commerce-app#readme"
+}
